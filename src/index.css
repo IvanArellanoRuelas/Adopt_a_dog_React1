@@ -1,0 +1,19 @@
+#main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#Titulo {
+  text-align: center;
+}
+
+#carta {
+  margin: 10px;
+}
+
+#footer {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
